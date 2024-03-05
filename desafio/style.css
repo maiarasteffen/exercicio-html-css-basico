@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+}
+
+.tabela {
+    background-color: #ccc;
+    color: #fff;
+}
+
+.tabela tr td {
+    margin: 10px;
+    padding: 10px;
+    background-color: #424250;
+}
+
+.tabela .cabecalho-moda tr td{
+    margin: 10px;
+    padding: 10px;
+    background-color: #bb86fc;
+    font-weight: 700;
+    text-align: center;
+}
+
+.tabela .cabecalho-casa tr td {
+    background-color: #00c4b4;
+    margin: 10px;
+    padding: 10px;
+    font-weight: 700;
+    text-align: center;
+}
+
